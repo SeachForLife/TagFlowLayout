@@ -5,7 +5,7 @@ TagLayout for android
 
 |竖屏效果|横屏效果|
 |:-----|:-----|
-| <img src="GIF/taglayout.gif" width="280" height="475" />| <img src="GIF/taglayout_h.gif" width="280" height="475" />|
+| <img src="GIF/taglayout.gif" width="280" height="475" />| <img src="GIF/taglayout_h.gif" width="475" height="280" />|
 
 # Gradle
 
