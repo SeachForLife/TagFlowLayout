@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tagName">
+        <item>NormalTagLayout</item>
+        <item>CardViewTagLayout</item>
+        <item>RandomTagLayout</item>
+    </string-array>
+    <string-array name="tagInstruction">
+        <item>普通的标签布局</item>
+        <item>卡片式标签布局</item>
+        <item>随机颜色、随机分布式标签布局</item>
+    </string-array>
+    <array name="intent_class">
+        <item>MainActivity.class</item>
+    </array>
+</resources>

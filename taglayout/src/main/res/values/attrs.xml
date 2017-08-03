@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="TagFlowLayout">
+        <attr name="tagGravity">
+            <enum name="left" value="0"></enum>
+            <enum name="center" value="1"></enum>
+        </attr>
+        <attr name="tagDivider_horizontal" format="dimension"></attr>
+        <attr name="tagDivider_vertical" format="dimension"></attr>
+        <attr name="tagPadding" format="dimension"></attr>
+    </declare-styleable>
+</resources>

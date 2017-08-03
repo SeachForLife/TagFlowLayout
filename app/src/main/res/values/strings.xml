@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TagFlowLayout</string>
+
+    <string name="normalview_center">普通居中布局</string>
+    <string name="normalview_left">普通靠左对齐</string>
+    <string name="circleview_center">圆角居中布局</string>
+    <string name="circleview_left">圆角靠左对齐</string>
+    <string name="cardview_center">卡片式居中布局</string>
+    <string name="cardview_left">卡片式靠左对齐</string>
+    <string name="randomview_center">随机居中布局</string>
+    <string name="radnomview_left">随机靠左对齐</string>
+</resources>
