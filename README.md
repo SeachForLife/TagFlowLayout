@@ -1,3 +1,6 @@
+
+[![JitPack](https://jitpack.io/v/SeachForLife/TagFlowLayout.svg)](https://jitpack.io/#SeachForLife/TagFlowLayout)
+
 # TagFlowLayout
 TagLayout for android
 
